@@ -1,0 +1,24 @@
+centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav + .container, nav + .container-fluid {
+    margin-top: 20px;
+  } 
+  .actions , .actions-th {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+  }
+  .btn-success{
+    justify-content: right;
+    display: flex;
+    align-items: center;
+    margin-left: 92.9%;
+    margin-top: 1%;
+   
+  }
+  h2{
+    font-size: 30px;
+  }
